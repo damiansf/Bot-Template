@@ -2,6 +2,8 @@ This is a basic bot for single team use that can be used as a template to build 
 
 Refer to this Medium article for more information:
 
+Before following the below instructions, use yarn or npm to install all dependencies
+
 Run:
 lt --port 8765 --subdomain bot-template -h http://localtunnel.me --local-https false
 
