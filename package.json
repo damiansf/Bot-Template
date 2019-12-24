@@ -1,0 +1,20 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "A template botkit Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Damian Sandhu-Franceschi",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.7.5",
+    "botkit-mock": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "botbuilder-adapter-slack": "^1.0.7"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
