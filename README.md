@@ -1,6 +1,6 @@
 This is a basic bot for single team use that can be used as a template to build other, more complex bots.
 
-Refer to this Medium article for more information:
+Refer to this Medium article for more information: https://medium.com/@damiansandhu11/building-custom-slack-bots-using-botkit-825fb4a6f3c7
 
 Before following the below instructions, use yarn or npm to install all dependencies
 
